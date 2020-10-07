@@ -1,7 +1,7 @@
 {
     "perl"      : "6.*",
     "name"      : "DateTime::Parse",
-    "version"   : "0.9.1",
+    "version"   : "0.9.2",
     "description"   : "DateTime parser",
     "build-depends" : [ ],
     "test-depends" : [
@@ -11,5 +11,5 @@
     "provides" : {
         "DateTime::Parse" : "lib/DateTime/Parse.pm6"
     },
-    "source-url"    : "git://github.com/sergot/datetime-parse.git"
+    "source-url"    : "git://github.com/rypervenche/datetime-parse.git"
 }
